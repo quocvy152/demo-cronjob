@@ -1,0 +1,1 @@
+exports.KEY_WEATHER_API = '7b889ac2e87f2e6bacff34ccdaed7721';
